@@ -1,0 +1,8 @@
+node_modules
+.env
+.env.example
+database.sqlite
+db_dump.sql
+README.md
+dist
+package-lock.json
